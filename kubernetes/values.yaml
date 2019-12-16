@@ -31,7 +31,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: training-app.10.112.238.151.xip.io
+    - host: training-app.10.112.238.148.xip.io
       paths: 
         - /
   tls: []
